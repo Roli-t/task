@@ -1,0 +1,39 @@
+{ "users":[
+    {
+        "id":"1",
+        "nev": "Valaki"
+    }],
+    
+    "tasks":[
+    {
+        "id":"1",
+        "leiras": "feladat1 leírása",
+        "allapot": "folyamatban",
+        "datum": "2021-12-20",
+        "userId": "1"
+    },
+    {
+        "id":"2",
+        "leiras": "feladat2 leírása",
+        "allapot": "kész",
+        "datum": "2021-12-18",
+        "userId": "1"
+    },
+    {
+        "id":"3",
+        "leiras": "feladat3 leírása",
+        "allapot": "elvégzendő",
+        "datum": "2021-12-23",
+        "userId": "1"
+    },
+    {
+        "id":"4",
+        "leiras": "feladat4 leírása",
+        "allapot": "törlendő",
+        "datum": "2021-12-20",
+        "userId": "1"
+    }
+]
+
+}
+    

@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main {
+    margin: auto;
+    background-color: lavenderblush;
+}
+
+header {
+     font-size: x-large;
+     font-weight: bold;
+}
+
+.task{
+    border: 1px solid gray;
+    background-color: white;
+    border-radius: 5px;
+
+}
+
+nav ul {
+    display: grid;
+    grid-template-columns: 100px 100px;
+    grid-gap: 5px;
+    padding: 0px;
+}
+
+nav ul li {
+    padding: 3px 10px;
+    background: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    list-style-type: none;
+    
+}
+
+nav ul li a{
+    
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;
+}
+
